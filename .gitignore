@@ -25,3 +25,4 @@ __mine__*.md
 # pyinstaller
 dist
 build
+*.spec
